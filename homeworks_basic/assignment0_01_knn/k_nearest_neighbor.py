@@ -168,5 +168,4 @@ class KNearestNeighbor:
 
 
             # *****END OF YOUR CODE (DO NOT DELETE/MODIFY THIS LINE)*****
-
         return y_pred
